@@ -1,0 +1,6 @@
+
+The input vector is: 1110101
+The value at the output node 7 is 1
+The value at the output node 9 is 0
+The value at the output node 11 is 0
+The value at the output node 5 is 1

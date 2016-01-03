@@ -1,0 +1,4 @@
+
+The input vector is : 1010101
+
+The input vector is : 0101010
