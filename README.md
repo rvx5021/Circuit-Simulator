@@ -1,2 +1,5 @@
 # Circuit-Simulator
-This simulator simulates the circuit for the give test vectors and display the outputs at each output node.
+
+DESCRIPTION
+
+This Circuit Simulator simulates the circuit for any input vector and displays the outputs at each node.
